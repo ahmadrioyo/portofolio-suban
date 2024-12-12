@@ -53,7 +53,7 @@
     {{-- header end --}}
 
     {{-- hero section start --}}
-    <section id="home" class="pt-28">
+    <section id="home" class="pt-36">
         <div class="container">
             <div class="flex flex-wrap">
                 <div class="w-full self-center px-4 lg:w-1/2">
@@ -133,6 +133,55 @@
         </div>
     </section>
     {{-- about section end --}}
+
+    <section id="project" class="pt-36 pb-16 bg-slate-100">
+        <div class="container">
+            <div class="w-full px-6">
+                <div class="max-w-xl mx-auto text-center mb-16">
+                    <h4 class="font-semibold text-lg text-cyan-500 mb-2">My Projects</h4>
+                    <h2 class="font-bold text-slate-950 text-3xl mb-4">Newest Project</h2>
+                    <p class="font-medium text-md text-slate-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam delectus eos vel veritatis temporibus odit eveniet! Amet perferendis non eos.</p>
+                </div>
+            </div>
+            <div class="w-full px-4 flex flex-wrap justify-center">
+                <div class="mb-14 p-4 md:w-1/2">
+                    <div class="rounded-md shadow-md overflow-hidden">
+                        <img src="{{ asset('assets/project/projek-matlab.png') }}" alt="projek-matlab" width="w-full">
+                    </div>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Projek Matlab</h3>
+                    <p class="font-medium text-base text-slate-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur quo suscipit.</p>
+                </div>
+                <div class="mb-14 p-4 md:w-1/2">
+                    <div class="rounded-md shadow-md overflow-hidden">
+                        <img src="{{ asset('assets/project/projek-websoket.png') }}" alt="projek-websoket" width="w-full">
+                    </div>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Projek Websocket</h3>
+                    <p class="font-medium text-base text-slate-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur quo suscipit.</p>
+                </div>
+                <div class="mb-14 p-4 md:w-1/2">
+                    <div class="rounded-md shadow-md overflow-hidden">
+                        <img src="{{ asset('assets/project/projek-web-2.png') }}" alt="projek-web-sia" width="w-full">
+                    </div>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Projek Web Sistem Informasi Akuntansi</h3>
+                    <p class="font-medium text-base text-slate-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur quo suscipit.</p>
+                </div>
+                <div class="mb-14 p-4 md:w-1/2">
+                    <div class="rounded-md shadow-md overflow-hidden">
+                        <img src="{{ asset('assets/project/projek-web-3.png') }}" alt="projek-ui-simrs-rsud-mojokerto" width="w-full">
+                    </div>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Projek UI SIMRS Ranap RSUD dr. Wahidin Sudiro Husodo</h3>
+                    <p class="font-medium text-base text-slate-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur quo suscipit.</p>
+                </div>
+                {{-- <div class="mb-14 p-4 md:w-1/2">
+                    <div class="rounded-md shadow-md overflow-hidden">
+                        <img src="{{ asset('assets/project/projek-web-3.png') }}" alt="projek-ui-simrs-rsud-mojokerto" width="w-full">
+                    </div>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Projek UI SIMRS Ranap RSUD dr. Wahidin Sudiro Husodo</h3>
+                    <p class="font-medium text-base text-slate-500">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea consectetur quo suscipit.</p>
+                </div> --}}
+            </div>
+        </div>
+    </section>
 
     <script src="{{ asset('js/scripts.js') }}"></script>
 </body>
