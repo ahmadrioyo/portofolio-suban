@@ -7,9 +7,16 @@ export default {
       "./resources/**/*.vue",
     ],
     theme: {
+      container: {
+        center: true,
+        padding: '16px',
+      },
       extend: {
         fontFamily: {
             sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+          },
+          screens: {
+            '2xl': '1320px',
           },
       },
     },
