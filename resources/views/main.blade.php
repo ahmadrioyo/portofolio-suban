@@ -36,7 +36,7 @@
                                 <a href="#project" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">My Projects</a>
                             </li>
                             <li class="group">
-                                <a href="#client" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Clients</a>
+                                <a href="#tools" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Tools</a>
                             </li>
                             <li class="group">
                                 <a href="#blog" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Blog</a>
@@ -160,28 +160,28 @@
     <section id="project" class="pt-36 pb-16 bg-slate-100">
         <div class="container">
             <div class="w-full px-6">
-                <div class="max-w-xl mx-auto text-center mb-16">
+                <div class="mx-auto text-center mb-16">
                     <h4 class="font-semibold text-lg text-cyan-500 mb-2">My Projects</h4>
-                    <h2 class="font-bold text-slate-950 text-3xl mb-4">Latest Project</h2>
-                    <p class="font-medium text-md text-slate-500">The latest project that I worked on, with a client or for personal purposes</p>
+                    <h2 class="font-bold text-slate-950 text-3xl mb-4 sm:text-4xl lg:text-5xl">Latest Project</h2>
+                    <p class="font-medium text-md text-slate-500 md:text-lg">The latest project that I worked on, with a client or for personal purposes</p>
                 </div>
             </div>
-            <div class="w-full px-4 flex flex-wrap justify-center">
-                <div class="mb-14 p-4 md:w-1/2">
+            <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
+                <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-matlab.png') }}" alt="projek-matlab" width="w-full">
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Matlab</h3>
                     <p class="font-medium text-base text-slate-500">Matlab project received from client to create a plot made of points formed from x-axis and y-axis.</p>
                 </div>
-                <div class="mb-14 p-4 md:w-1/2">
+                <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-websoket.png') }}" alt="projek-websoket" width="w-full">
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Websocket</h3>
                     <p class="font-medium text-base text-slate-500">This project is made to help clients send messages from web to mobile using websocket on laravel.</p>
                 </div>
-                <div class="mb-14 p-4 md:w-1/2">
+                <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-web-2.png') }}" alt="projek-web-sia" width="w-full">
                     </div>
@@ -189,14 +189,14 @@
                     <p class="font-medium text-base text-slate-500">This system is used by one of the 'UMKM' in running its business, this system uses the Laravel framework, MySQL database management system, PHP programming language.
                     </p>
                 </div>
-                <div class="mb-14 p-4 md:w-1/2">
+                <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-web-3.png') }}" alt="projek-ui-simrs-rsud-mojokerto" width="w-full">
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">UI SIMRS 'Ranap' RSUD dr. Wahidin Sudiro Husodo</h3>
                     <p class="font-medium text-base text-slate-500">This project was obtained when I was an intern at CV. Natusi software & hardware house.</p>
                 </div>
-                <div class="mb-14 p-4 md:w-1/2">
+                <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-java.png') }}" alt="projek-dekstop-kasir-java" width="w-full">
                     </div>
@@ -207,6 +207,39 @@
         </div>
     </section>
     {{-- project section end --}}
+
+    {{-- tools section start --}}
+    <section id="tools" class="pt-36 pb-32 bg-slate-800">
+        <div class="container">
+            <div class="w-full px-4">
+                <div class="mx-auto text-center mb-16">
+                    <h4 class="font-semibold text-lg text-cyan-500 mb-2">Tools</h4></h4>
+                    <h2 class="font-bold text-white text-3xl mb-4 sm:text-4xl lg:text-5xl">The tools I use to program the web</h2>
+                </div>
+            </div>
+            <div class="w-full px-4">
+                <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Design Tools</p>
+                <div class="flex flex-wrap items-center justify-center mb-3 mt-0">
+                    <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                        <img src="{{ asset('assets/tools/figma.svg') }}" alt="figma">
+                    </a>
+                    <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                        <img src="{{ asset('assets/tools/canva.svg') }}" alt="canva">
+                    </a>
+                </div>
+                <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Frontend Tools</p>
+                <div class="flex flex-wrap items-center justify-center mb-3 mt-0">
+                    <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                        <img src="{{ asset('assets/tools/tail.svg') }}" alt="tailwindcss">
+                    </a>
+                    <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                        <img src="{{ asset('assets/tools/boostrap.svg') }}" alt="boostrap">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{-- tools section end --}}
 
     <script src="{{ asset('js/scripts.js') }}"></script>
 </body>
