@@ -185,7 +185,7 @@
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-web-2.png') }}" alt="projek-web-sia" width="w-full">
                     </div>
-                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Sistem Informasi Akuntansi berbasis Web</h3>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Web-based Accounting Information System</h3>
                     <p class="font-medium text-base text-slate-500">This system is used by one of the 'UMKM' in running its business, this system uses the Laravel framework, MySQL database management system, PHP programming language.
                     </p>
                 </div>
@@ -193,15 +193,15 @@
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-web-3.png') }}" alt="projek-ui-simrs-rsud-mojokerto" width="w-full">
                     </div>
-                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">UI SIMRS Ranap RSUD dr. Wahidin Sudiro Husodo</h3>
-                    <p class="font-medium text-base text-slate-500">Projek ini didapat ketika saya magang di CV. Natusi software & hardware house</p>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">UI SIMRS 'Ranap' RSUD dr. Wahidin Sudiro Husodo</h3>
+                    <p class="font-medium text-base text-slate-500">This project was obtained when I was an intern at CV. Natusi software & hardware house.</p>
                 </div>
                 <div class="mb-14 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <img src="{{ asset('assets/project/projek-java.png') }}" alt="projek-dekstop-kasir-java" width="w-full">
                     </div>
-                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Sistem Kasir berbasis Dekstop</h3>
-                    <p class="font-medium text-base text-slate-500">Sistem ini adalah projek akhir saya ketika masa studi saya yang menggunakan netbeans sebagai text editor dan bahasa pemrograman java</p>
+                    <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Desktop-based Cashier System</h3>
+                    <p class="font-medium text-base text-slate-500">This system is my final project during my studies which uses NetBeans as a text editor and Java programming language.</p>
                 </div>
             </div>
         </div>
