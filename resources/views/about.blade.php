@@ -11,21 +11,21 @@
                             <title>Headspace</title>
                             <path d="M23.9711 11.8612c.279 3.8878-1.5272 6.0933-2.6155 7.6357-1.694 1.7856-3.8397 4.2203-9.291 4.3565-4.6237.1827-6.8957-1.8508-8.8034-3.617-2.487-2.7336-3.1366-4.3512-3.261-8.3752-.0118-2.467.9397-4.9292 2.6025-7.0954C4.934 1.4736 8.6408.3699 12.0646.1426c3.5923-.1392 6.4493 1.6723 8.3993 3.624 2.4963 2.632 3.2629 4.8923 3.5054 8.0946Z"/>
                         </svg>
-                        <a href="" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Education</a>
+                        <a href="#education" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Education</a>
                     </li>
                     <li class="flex items-center text-cyan-500 mb-5">
                         <svg class="px-2 fill-current" width=30 role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <title>Headspace</title>
                             <path d="M23.9711 11.8612c.279 3.8878-1.5272 6.0933-2.6155 7.6357-1.694 1.7856-3.8397 4.2203-9.291 4.3565-4.6237.1827-6.8957-1.8508-8.8034-3.617-2.487-2.7336-3.1366-4.3512-3.261-8.3752-.0118-2.467.9397-4.9292 2.6025-7.0954C4.934 1.4736 8.6408.3699 12.0646.1426c3.5923-.1392 6.4493 1.6723 8.3993 3.624 2.4963 2.632 3.2629 4.8923 3.5054 8.0946Z"/>
                         </svg>
-                        <a href="" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Tools</a>
+                        <a href="#tools" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Tools</a>
                     </li>
                     <li class="flex items-center text-cyan-500 mb-5">
                         <svg class="px-2 fill-current" width=30 role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <title>Headspace</title>
                             <path d="M23.9711 11.8612c.279 3.8878-1.5272 6.0933-2.6155 7.6357-1.694 1.7856-3.8397 4.2203-9.291 4.3565-4.6237.1827-6.8957-1.8508-8.8034-3.617-2.487-2.7336-3.1366-4.3512-3.261-8.3752-.0118-2.467.9397-4.9292 2.6025-7.0954C4.934 1.4736 8.6408.3699 12.0646.1426c3.5923-.1392 6.4493 1.6723 8.3993 3.624 2.4963 2.632 3.2629 4.8923 3.5054 8.0946Z"/>
                         </svg>
-                        <a href="" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Experience</a>
+                        <a href="#project" class="text-base font-semibold text-white bg-cyan-500 py-1 px-5 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">My Projects</a>
                     </li>
                 </ul>
             </div>

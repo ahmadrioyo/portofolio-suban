@@ -20,13 +20,13 @@
                             <a href="#about" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">About Me</a>
                         </li>
                         <li class="group">
-                            <a href="#project" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">My Projects</a>
+                            <a href="#Education" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Education</a>
                         </li>
                         <li class="group">
                             <a href="#tools" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Tools</a>
                         </li>
                         <li class="group">
-                            <a href="#blog" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Blog</a>
+                            <a href="#project" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">My Projects</a>
                         </li>
                         <li class="group">
                             <a href="#contact" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Contacts</a>

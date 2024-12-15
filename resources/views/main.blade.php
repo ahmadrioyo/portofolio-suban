@@ -22,14 +22,19 @@
     {{-- about section start --}}
     @include('about')
     {{-- about section end --}}
+    
+    {{-- education section start --}}
+    @include('education')
+    {{-- education section end --}}
+    
+    {{-- tools section start --}}
+    @include('tools')
+    {{-- tools section end --}}
 
     {{-- project section start --}}
     @include('project')
     {{-- project section end --}}
 
-    {{-- tools section start --}}
-    @include('tools')
-    {{-- tools section end --}}
 
     <script src="{{ asset('js/scripts.js') }}"></script>
 </body>
