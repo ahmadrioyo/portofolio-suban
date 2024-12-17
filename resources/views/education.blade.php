@@ -10,44 +10,50 @@
         </div>
         <div class="flex flex-wrap">
             <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                <img src="{{ asset('assets/education/polije.svg') }}" alt="Politeknik Negeri Jember" class="w-full">
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="{{ asset('assets/education/Polije.svg') }}" alt="Politeknik Negeri Jember" width="w-full">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Diploma 3 Politeknik Negeri Jember</a>
+                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Politeknik Negeri Jember</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6">Program Studi Manajemen Informatika Jurusan Teknologi Informasi Politeknik Negeri Jember</p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">Lihat Profil sekolah &raquo;</a>
+                        <p class="font-medium text-base text-slate-500 mb-6">Education period 2021 - 2024, with an associate degree, majoring in information technology, informatics management study program.</p>
+                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
+            </div>
+            <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                <img src="{{ asset('assets/education/smansa.png') }}" alt="SMA Negeri 1 Pamekasan" class="w-full">
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="{{ asset('assets/education/Polije.svg') }}" alt="Politeknik Negeri Jember" width="w-full">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Diploma 3 Politeknik Negeri Jember</a>
+                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMA Negeri 1 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6">Program Studi Manajemen Informatika Jurusan Teknologi Informasi Politeknik Negeri Jember</p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">Lihat Profil sekolah &raquo;</a>
+                        <p class="font-medium text-base text-slate-500 mb-6"></p>
+                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
+            </div>
+            <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                <img src="{{ asset('assets/education/smpn2.webp') }}" alt="SMP Negeri 2 Pamekasan" class="w-full">
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="{{ asset('assets/education/Polije.svg') }}" alt="Politeknik Negeri Jember" width="w-full">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Diploma 3 Politeknik Negeri Jember</a>
+                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMP Negeri 2 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6">Program Studi Manajemen Informatika Jurusan Teknologi Informasi Politeknik Negeri Jember</p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">Lihat Profil sekolah &raquo;</a>
+                        <p class="font-medium text-base text-slate-500 mb-6"></p>
+                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
+            </div>
+            <div class="w-full px-4 lg:w-1/2 xl:w-1/3">
+                <img src="{{ asset('assets/education/sd.png') }}" alt="" class="w-full">
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                    <img src="{{ asset('assets/education/Polije.svg') }}" alt="Politeknik Negeri Jember" width="w-full">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Diploma 3 Politeknik Negeri Jember</a>
+                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SD Negeri Lawangan Daya 3 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6">Program Studi Manajemen Informatika Jurusan Teknologi Informasi Politeknik Negeri Jember</p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">Lihat Profil sekolah &raquo;</a>
+                        <p class="font-medium text-base text-slate-500 mb-6"></p>
+                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
             </div>

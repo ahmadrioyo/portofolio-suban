@@ -20,7 +20,7 @@
             <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Frontend </p>
             <div class="flex flex-wrap items-center justify-center mb-3 mt-0">
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                    <img src="{{ asset('assets/tools/React-icon.svg') }}" alt="react.js">
+                    <img src="{{ asset('assets/tools/react.svg') }}" alt="react.js">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
                     <img src="{{ asset('assets/tools/tail.svg') }}" alt="tailwindcss">
@@ -29,13 +29,13 @@
                     <img src="{{ asset('assets/tools/boostrap.svg') }}" alt="boostrap">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                    <img src="{{ asset('assets/tools/javascript.svg') }}" alt="javascript">
+                    <img src="{{ asset('assets/tools/javas.svg') }}" alt="javascript">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
                     <img src="{{ asset('assets/tools/css.svg') }}" alt="css">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                    <img src="{{ asset('assets/tools/html-logo.svg') }}" alt="html-logo">
+                    <img src="{{ asset('assets/tools/html.svg') }}" alt="html-logo">
                 </a>
             </div>
             <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Backend </p>
@@ -44,13 +44,16 @@
                     <img src="{{ asset('assets/tools/php.svg') }}" alt="php.js">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                    <img src="{{ asset('assets/tools/javascript.svg') }}" alt="javascript">
+                    <img src="{{ asset('assets/tools/javas.svg') }}" alt="javascript">
+                </a>
+                <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                    <img src="{{ asset('assets/tools/java.svg') }}" alt="java">
                 </a>
             </div>
             <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Database Management System</p>
             <div class="flex flex-wrap items-center justify-center mb-3 mt-0">
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                    <img src="{{ asset('assets/tools/mysql.svg') }}" alt="mysql.js">
+                    <img src="{{ asset('assets/tools/sql.svg') }}" alt="MySQL">
                 </a>
             </div>
             <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Framework</p>
