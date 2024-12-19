@@ -14,10 +14,10 @@
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Politeknik Negeri Jember</a>
+                            <a href="https://polije.ac.id/" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">Politeknik Negeri Jember</a>
                         </h3>
                         <p class="font-medium text-base text-slate-500 mb-6">Education period 2021 - 2024, with an associate degree, majoring in information technology, informatics management study program.</p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
+                        <a href="https://polije.ac.id/" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
             </div>
@@ -26,10 +26,10 @@
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMA Negeri 1 Pamekasan</a>
+                            <a href="https://www.sman1pmk.sch.id/" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMA Negeri 1 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6"></p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
+                        <p class="font-medium text-base text-slate-500 mb-6">Educational period 2018 - 2021, I studied here for 3 years in the science department, here I developed many of my skills, one of which was organizing by joining MPK, Robotics Club, nature lovers, and information technology club.</p>
+                        <a href="https://www.sman1pmk.sch.id/" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
             </div>
@@ -38,10 +38,10 @@
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMP Negeri 2 Pamekasan</a>
+                            <a href="https://dapo.kemdikbud.go.id/sekolah/6C8A1DF306C8FCFC077A" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SMP Negeri 2 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6"></p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
+                        <p class="font-medium text-base text-slate-500 mb-6">Educational period 2015 - 2018, I studied here for 3 years in the advanced mathematics class, here I developed many of my skills, one of which was joining the mathematics club.</p>
+                        <a href="https://dapo.kemdikbud.go.id/sekolah/6C8A1DF306C8FCFC077A"" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
             </div>
@@ -50,10 +50,10 @@
                 <div class="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
                     <div class="py-8 px-6">
                         <h3>
-                            <a href="" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SD Negeri Lawangan Daya 3 Pamekasan</a>
+                            <a href="https://dapo.kemdikbud.go.id/sekolah/EBD8626A281A9DFB08EB" class="block mb-3 font-semibold text-xl text-slate-950 hover:text-cyan-500 truncate">SD Negeri Lawangan Daya 3 Pamekasan</a>
                         </h3>
-                        <p class="font-medium text-base text-slate-500 mb-6"></p>
-                        <a href="" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
+                        <p class="font-medium text-base text-slate-500 mb-6">The educational period 2009 - 2015, I studied here for 6 years, I developed my skills a lot by contributing to the Paskribaka competition, OSN mathematics and English, O2SN chess and bridge</p>
+                        <a href="https://dapo.kemdikbud.go.id/sekolah/EBD8626A281A9DFB08EB" class="font-medium text-sm text-white bg-cyan-500 py-2 px-4 rounded-lg hover:opacity-80">view profile</a>
                     </div>
                 </div>
             </div>

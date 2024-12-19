@@ -20,7 +20,7 @@
                             <a href="#about" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">About Me</a>
                         </li>
                         <li class="group">
-                            <a href="#Education" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Education</a>
+                            <a href="#education" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Education</a>
                         </li>
                         <li class="group">
                             <a href="#tools" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Tools</a>
