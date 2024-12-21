@@ -35,6 +35,10 @@
     @include('project')
     {{-- project section end --}}
 
+    {{-- contact section start --}}
+    @include('contact')
+    {{-- contact section end --}}
+
 
     <script src="{{ asset('js/scripts.js') }}"></script>
 </body>

@@ -8,7 +8,7 @@
                 </h1>
                 <h2 class="font-medium text-slate-950 text-lg mb-3 lg:text-2xl">Junior <span class="text-cyan-500 font-bold lg:text-2xl">Web Programmer</span></h2>
                 <p class="font-medium text-slate-500 mb-10 leading-relaxed lg:text-lg">Specializing in information systems development. Proficient in UI/UX Design, Web Programming, and Database Management.</p>
-                <a href="" class="text-base font-semibold text-white bg-cyan-500 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">More</a>
+                <a href="#about" class="text-base font-semibold text-white bg-cyan-500 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">More</a>
             </div>
             <div class="w-full self-end px-4 lg:w-1/2">
                 <div class="relative mt-20 lg:mt-0 lg:right-0">
