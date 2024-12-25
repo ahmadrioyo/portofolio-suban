@@ -24,25 +24,37 @@
                         <span class="hamburger-line transition duration-400 ease-in-out"></span>
                         <span class="hamburger-line transition duration-400 ease-in-out origin-bottom-left"></span>
                     </button>
-                    <nav id="nav-menu" class="hidden absolute py-5 bg-white shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none">
+                    <nav id="nav-menu" class="hidden absolute py-5 bg-white shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:bg-transparent lg:max-w-full lg:shadow-none lg:rounded-none dark:bg-slate-950 dark:shadow-slate-800 lg:dark:bg-transparent">
                         <ul class="block lg:flex">
                             <li class="group">
-                                <a href="#home" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Home Page</a>
+                                <a href="#home" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">Home Page</a>
                             </li>
                             <li class="group">
-                                <a href="#about" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">About Me</a>
+                                <a href="#about" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">About Me</a>
                             </li>
                             <li class="group">
-                                <a href="#education" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Education</a>
+                                <a href="#education" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">Education</a>
                             </li>
                             <li class="group">
-                                <a href="#tools" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Tools</a>
+                                <a href="#tools" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">Tools</a>
                             </li>
                             <li class="group">
-                                <a href="#project" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">My Projects</a>
+                                <a href="#project" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">My Projects</a>
                             </li>
                             <li class="group">
-                                <a href="#contact" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500">Contact</a>
+                                <a href="#contact" class="text-base text-slate-950 py-2 mx-8 flex group-hover:text-cyan-500 dark:text-white">Contact</a>
+                            </li>
+                            <li class="flex mt-3 items-center pl-8">
+                                <div class="flex">
+                                    <span class="mr-2 text-sm text-slate-500">Light</span>
+                                    <input type="checkbox" class="hidden" id="dark-toggle" />
+                                    <label for="dark-toggle">
+                                        <div class="flex h-5 w-9 cursor-pointer items-center rounded-full bg-slate-500 p-1">
+                                            <div class="toggle-circle h-4 w-4 rounded-full bg-white transition duration-300 ease-in-out"></div>
+                                        </div>
+                                    </label>
+                                    <span class="ml-2 text-sm text-slate-500">Dark</span>
+                                </div>
                             </li>
                         </ul>
                     </nav>
@@ -53,21 +65,21 @@
     <!-- header end -->
 
     <!-- hero start -->
-    <section id="home" class="pt-36">
+    <section id="home" class="pt-36 dark:bg-slate-950">
         <div class="container">
             <div class="flex flex-wrap">
                 <div class="w-full self-center px-4 lg:w-1/2">
                     <h1 class="text-base font-semibold text-cyan-500 md:text-xl">Hi Everyone 🙌, I am 
-                        <span class="block font-bold text-slate-950 text-4xl mt-1 lg:text-5xl">Ahmad Maulana Subandrio</span>
+                        <span class="block font-bold text-slate-950 text-4xl mt-1 lg:text-5xl dark:text-white">Ahmad Maulana Subandrio</span>
                     </h1>
-                    <h2 class="font-medium text-slate-950 text-lg mb-3 lg:text-2xl">Junior <span class="text-cyan-500 font-bold lg:text-2xl">Web Programmer</span></h2>
+                    <h2 class="font-medium text-slate-950 text-lg mb-3 lg:text-2xl dark:text-white">Junior <span class="text-cyan-500 font-bold lg:text-2xl">Web Programmer</span></h2>
                     <p class="font-medium text-slate-500 mb-10 leading-relaxed lg:text-lg">Specializing in information systems development. Proficient in UI/UX Design, Web Programming, and Database Management.</p>
                     <a href="#contact" class="text-base font-semibold text-white bg-cyan-500 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-400 ease-in-out">Contact Me</a>
                 </div>
                 <div class="w-full self-end px-4 lg:w-1/2">
                     <div class="relative mt-20 lg:mt-0 lg:right-0">
-                        <img src="assets/profile.png" alt="Ahmad Maulana Subandrio" class="max-w-full mx-auto">
-                        <span class="absolute -bottom-0 -z-10 left-1/2 -translate-x-1/2 md:scale-125">
+                        <img src="assets/profile.png" alt="Ahmad Maulana Subandrio" class="relative z-10 max-w-full mx-auto">
+                        <span class="absolute -bottom-0 left-1/2 -translate-x-1/2 md:scale-125">
                             <svg width="400" height="400" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="#22D3EE" d="M59.8,-25.8C64.8,-3.9,47.5,18.8,24.8,35.7C2,52.6,-26.1,63.7,-42.3,53.1C-58.5,42.6,-62.8,10.4,-53.7,-17C-44.7,-44.5,-22.3,-67.1,2.5,-67.9C27.4,-68.8,54.7,-47.7,59.8,-25.8Z" transform="translate(100 100) scale(1.0)" />
                             </svg>
@@ -232,7 +244,7 @@
             <div class="w-full px-4">
                 <p class="font-semibold text-xl text-slate-300 md:text-xl justify-center text-center">Design</p>
                 <div class="flex flex-wrap items-center justify-center mb-3 mt-0">
-                    <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
+                    <a class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
                         <img src="assets/tools/figma.svg" alt="figma">
                     </a>
                     <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
